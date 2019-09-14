@@ -3,7 +3,7 @@ package problems
 import (
 	"sort"
 
-	"github.com/kavaliouIhar/euler-project-go/utils"
+	"github.com/kavaliouIhar/euler-go/utils"
 )
 
 func P119() int {

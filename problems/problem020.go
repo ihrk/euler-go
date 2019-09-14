@@ -1,8 +1,6 @@
 package problems
 
-import (
-	"math/big"
-)
+import "math/big"
 
 func P20() int {
 	fac := big.NewInt(1)

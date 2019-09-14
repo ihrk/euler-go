@@ -1,8 +1,6 @@
 package problems
 
-import (
-	"math/big"
-)
+import "math/big"
 
 func P26() int {
 	max := 0

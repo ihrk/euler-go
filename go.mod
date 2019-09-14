@@ -1,3 +1,3 @@
-module github.com/kavaliouIhar/euler-project-go
+module github.com/kavaliouIhar/euler-go
 
 go 1.13

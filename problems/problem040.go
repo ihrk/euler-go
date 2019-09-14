@@ -1,6 +1,6 @@
 package problems
 
-import "github.com/kavaliouIhar/euler-project-go/utils"
+import "github.com/kavaliouIhar/euler-go/utils"
 
 func P40() int {
 	s := 1
