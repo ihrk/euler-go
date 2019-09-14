@@ -1,0 +1,36 @@
+package euler
+
+import "fmt"
+
+func Test() {
+	fmt.Println(P18())
+	fmt.Println(P20())
+	fmt.Println(P23())
+	fmt.Println(P26())
+	fmt.Println(P27())
+	fmt.Println(P29())
+	fmt.Println(P31())
+	fmt.Println(P32())
+	fmt.Println(P33())
+	fmt.Println(P35())
+	fmt.Println(P37())
+	fmt.Println(P40())
+	fmt.Println(P41())
+	fmt.Println(P43())
+	fmt.Println(P44())
+	fmt.Println(P46())
+	fmt.Println(P49())
+	fmt.Println(P50())
+	fmt.Println(P63())
+	fmt.Println(P66())
+	fmt.Println(P72())
+	fmt.Println(P75())
+	fmt.Println(P76())
+	fmt.Println(P77())
+	fmt.Println(P85())
+	fmt.Println(P108())
+	fmt.Println(P110())
+	fmt.Println(P119())
+	fmt.Println(P120())
+	fmt.Println(P123())
+}
