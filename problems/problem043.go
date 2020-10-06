@@ -1,6 +1,6 @@
 package problems
 
-import "github.com/kavaliouIhar/euler-go/utils"
+import "github.com/ihrk/euler-go/utils"
 
 func P43() int {
 	d := utils.Permutations([]int{0, 1, 2, 3, 4, 5, 6, 7, 8, 9})

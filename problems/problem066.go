@@ -3,7 +3,7 @@ package problems
 import (
 	"math/big"
 
-	"github.com/kavaliouIhar/euler-go/utils"
+	"github.com/ihrk/euler-go/utils"
 )
 
 func P66() int {

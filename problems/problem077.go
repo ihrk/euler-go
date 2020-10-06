@@ -1,6 +1,6 @@
 package problems
 
-import "github.com/kavaliouIhar/euler-go/utils"
+import "github.com/ihrk/euler-go/utils"
 
 //very bad written, since we cant proove that result is less 100
 func P77() int {

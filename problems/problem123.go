@@ -1,6 +1,6 @@
 package problems
 
-import "github.com/kavaliouIhar/euler-go/utils"
+import "github.com/ihrk/euler-go/utils"
 
 func P123() int {
 	for i, n := 3, 1; ; i += 2 {

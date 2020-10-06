@@ -1,6 +1,6 @@
 package problems
 
-import "github.com/kavaliouIhar/euler-go/utils"
+import "github.com/ihrk/euler-go/utils"
 
 func P23() int {
 	s := 0
